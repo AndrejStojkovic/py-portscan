@@ -7,5 +7,5 @@ A simple program I wrote in python to check if ports are open from a given IP.
 4. Program starts checking for open ports in that range
 5. That's it.
 
-Preview of the program:
+Preview of the program:  
 ![](preview.png)
