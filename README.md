@@ -8,4 +8,4 @@ A simple program I wrote in python to check if ports are open from a given IP.
 5. That's it.
 
 Preview of the program:
-[image](preview.png)
+![](preview.png)
