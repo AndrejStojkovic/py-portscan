@@ -1,9 +1,7 @@
 # py-portscan
-A simple program I wrote in python to check if ports are open from a given IP.
-
-1. Program takes in an IP from the user and validates.
-2. Program takes in port 'start' range, then takes in port 'end' range.
-3. Program starts checking for open ports in that range.
+A script in python that checks if ports are open from a given IP.
+The script takes in an IP from the user and validates then takes in port 'start' range and port 'end' range.  
+And lastly wait for it to check all of the ports.
 
 That's it.
 
